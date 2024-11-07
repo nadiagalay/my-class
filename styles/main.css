@@ -6,7 +6,7 @@ body{
 
 .student{
 width: 300px;
-background-color: teal;
+background-color: rgb(181, 240, 240);
 margin: 10px auto;
 border-radius: 29px;
 transition: 1.5s all;
